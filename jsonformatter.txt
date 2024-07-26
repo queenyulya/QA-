@@ -1,0 +1,4 @@
+Parse error on line 16:
+...                 }               
+--------------------^
+Expecting ',', ']', got '}'
